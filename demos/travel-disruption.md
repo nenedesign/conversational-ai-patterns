@@ -69,7 +69,7 @@ Each persona demonstrates a different facet of context-aware, action-first conve
 
 ---
 
-## Knowledge grounding: the RAG layer
+## Knowledge grounding: the Agentic RAG layer
 
 This prototype is backed by an agentic RAG pipeline, not hardcoded responses. Policy documents, carrier regulations, and fintech product terms are embedded in a Supabase vector store. When a policy question arises, the agent retrieves the relevant passages and grounds its response in those documents.
 
