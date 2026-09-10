@@ -6,7 +6,7 @@ This is not a theoretical guide. Every pattern here was applied in a working pro
 
 ---
 
-**Neville Ko**: AI Product Designer & Builder  
+**Neville Ko**: AI Product Manager, Designer & Builder  
 [Portfolio](https://fromus.ca) · [LinkedIn](https://www.linkedin.com/in/nevilleko/)
 
 ---
