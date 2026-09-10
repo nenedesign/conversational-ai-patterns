@@ -32,11 +32,9 @@ The HTS Assist prototype is backed by an agentic RAG pipeline built in n8n. Poli
 
 The n8n workflow handles the full retrieval pipeline: webhook trigger → semantic search against the Supabase vector store → context injection → Claude response → structured output. The Supabase table stores the embedded document chunks with their source metadata.
 
-<!-- Screenshot: n8n RAG pipeline workflow -->
-*[Screenshot: n8n RAG pipeline, webhook → semantic search → Supabase vector store → Claude response]*
+![n8n RAG pipeline: webhook → semantic search → Supabase vector store → Claude response](../demos/assets/rag-n8n-pipeline.png)
 
-<!-- Screenshot: Supabase vector store table snippet -->
-*[Screenshot: Supabase vector store, embedded policy document chunks with source metadata]*
+![Supabase vector store: embedded policy document chunks with source metadata](../demos/assets/rag-supabase-table.png)
 
 This is not a UI demo backed by hardcoded responses. The agent's answers on coverage, eligibility, and regulatory requirements come from a retrievable, auditable knowledge base.
 

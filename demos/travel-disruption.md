@@ -69,19 +69,29 @@ Each persona demonstrates a different facet of context-aware, action-first conve
 
 ---
 
-## Knowledge grounding: the Agentic RAG layer
+## Technical grounding: context engineering and agentic RAG
 
-This prototype is backed by an agentic RAG pipeline, not hardcoded responses. Policy documents, carrier regulations, and fintech product terms are embedded in a Supabase vector store. When a policy question arises, the agent retrieves the relevant passages and grounds its response in those documents.
+Two mechanisms work together to make this demo intelligent rather than scripted.
+
+### Context engineering: traveller profiles pre-loaded at session start
+
+Each traveller's profile — flight details, booking reference, coverage type, and loyalty status — is assembled and injected into the agent's context before the conversation begins. This is what enables the agent to open with "Hi Joe, I can see your flight UA234 to JFK has been cancelled" rather than asking for a booking reference.
+
+Context engineering is the mechanism behind [context awareness](../patterns/02-context-awareness.md) and [action-first framing](../patterns/03-action-first-framing.md). The agent doesn't ask because it already knows. Each persona has a distinct profile; switching personas loads a different context, producing a completely different opening.
+
+### Agentic RAG: policy and regulatory retrieval
+
+Agent responses on coverage eligibility, carrier rules, and product terms are grounded in a retrieval pipeline, not model memory. Policy documents, carrier regulations, and fintech product terms are embedded in a Supabase vector store. When a policy question arises, the agent retrieves the relevant passages and injects them into context alongside the traveller's profile.
+
+The n8n workflow handles the full pipeline: webhook trigger → semantic search → Supabase vector store → context injection → Claude response. Responses are traceable to specific source documents, not attributed to model training.
 
 ### n8n RAG pipeline
-<!-- Screenshot: n8n RAG workflow -->
-*[Screenshot: n8n RAG pipeline, webhook → semantic search → Supabase vector store → Claude response]*
+![n8n RAG pipeline: webhook → semantic search → Supabase vector store → Claude response](assets/rag-n8n-pipeline.png)
 
 ### Supabase vector store
-<!-- Screenshot: Supabase table snippet showing embedded document chunks -->
-*[Screenshot: Supabase vector store, embedded policy document chunks with source metadata]*
+![Supabase vector store: embedded policy document chunks with source metadata](assets/rag-supabase-table.png)
 
-The retrieval architecture means that agent responses on coverage, eligibility, and regulatory requirements are traceable to specific source documents, not attributed to model training. See [Knowledge grounding](../patterns/11-knowledge-grounding.md) for a full treatment of this pattern.
+See [Knowledge grounding](../patterns/11-knowledge-grounding.md) for a full treatment of the RAG pattern.
 
 ---
 
