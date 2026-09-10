@@ -25,6 +25,8 @@ Autonomous chaining works within a bounded scope. The user approves the intent (
 
 ## Seen in practice
 
+*Demonstrated in: [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Travel Disruption: rebook, hotel, expense claim
 
 Joe Chen approves one action: rebook on UA238. From that confirmation, the agent chains three sub-tasks without requiring re-initiation:

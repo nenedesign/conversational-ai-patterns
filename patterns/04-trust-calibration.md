@@ -22,6 +22,8 @@ Confidence is expressed through language, not through a score or a percentage. T
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md)*
+
 ### Payroll Intelligence: confidence expressed per finding
 
 The Payroll Detective surfaces three contractor issues in the Argentina payroll cycle. Each is presented with implicit confidence calibration:

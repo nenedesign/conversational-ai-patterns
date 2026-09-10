@@ -22,6 +22,8 @@ The alert arrives at the right moment, through the right channel, with enough co
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md) · [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Payroll Intelligence: proactive payroll anomaly detection
 
 The Payroll Detective agent monitors active payroll cycles in the background. When the Argentina payroll cycle surfaces three contractor classification issues ahead of the February 25th submission deadline, the agent proactively surfaces a toast notification, without the user opening the AI panel or asking a question.

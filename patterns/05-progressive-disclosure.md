@@ -23,6 +23,8 @@ Each layer is a conversation turn. The agent checks in between layers. The user 
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md)*
+
 ### Payroll Intelligence: three issues revealed in layers
 
 The Argentina payroll cycle has three issues. The Payroll Detective does not present all three at once:

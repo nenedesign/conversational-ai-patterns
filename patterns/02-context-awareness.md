@@ -21,6 +21,8 @@ Making context visible is not just a UX courtesy. It is a trust signal. When the
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md) · [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Travel Disruption: pre-loaded booking and coverage context
 
 When Joe Chen opens the HTS Assist chat, the agent's first message references his specific flight (UA234 to JFK), the reason for cancellation (crew shortage), and his coverage type (Disruption Assistance), before he has typed a single word. The agent is not demonstrating intelligence; it is demonstrating connection to his actual data.

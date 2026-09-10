@@ -20,6 +20,8 @@ A human-in-the-loop gate has three properties:
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md)*
+
 ### Payroll Intelligence: two-option decision before payment moves
 
 After Border Buddy completes the Morales analysis, no payment moves without an explicit human decision. Two options are presented:

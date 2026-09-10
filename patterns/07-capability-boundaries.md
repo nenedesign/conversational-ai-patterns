@@ -25,6 +25,8 @@ The boundary message should be:
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md)*
+
 ### Payroll Intelligence: Payroll Detective's legal boundary
 
 When the Morales case crosses into legal classification territory, Payroll Detective does not attempt an answer. It states its boundary plainly:

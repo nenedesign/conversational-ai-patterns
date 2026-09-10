@@ -21,6 +21,8 @@ Both layers matter. The conversational confirmation is what the user reads. The 
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md) · [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Travel Disruption: "You're all set, Joe"
 
 After Joe's disruption is fully resolved, flight rebooked, hotel booked, expense claim filed, the screen transitions to a dedicated resolution view. "You're all set, Joe." The booking reference, hotel confirmation, and expense claim number are all visible. The tone shifts from operational to warm.

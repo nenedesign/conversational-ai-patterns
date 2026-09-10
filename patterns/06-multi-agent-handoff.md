@@ -21,6 +21,8 @@ A well-designed handoff has four properties:
 
 ## Seen in practice
 
+*Demonstrated in: [Payroll Intelligence](../demos/payroll-intelligence.md)*
+
 ### Payroll Intelligence: Payroll Detective to Border Buddy
 
 The Argentina Morales case crosses into cross-border contractor classification, outside Payroll Detective's domain. Rather than attempting an answer it is not qualified to give, Payroll Detective asks permission to bring in a specialist:

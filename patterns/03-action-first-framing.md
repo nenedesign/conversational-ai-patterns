@@ -24,6 +24,8 @@ The user learns what happened and why it matters through the action being offere
 
 ## Seen in practice
 
+*Demonstrated in: [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Travel Disruption: rebooking, refund, and upgrade offers
 
 Each HTS Assist persona receives an action-first opening:

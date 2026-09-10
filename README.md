@@ -27,17 +27,17 @@ These patterns address the design layer: how conversational AI should behave, co
 
 | # | Pattern | Core question | Seen in |
 |---|---------|--------------|---------|
-| 01 | [Proactive alerts](patterns/01-proactive-alerts.md) | How does the agent surface issues before the user asks? | Both demos |
-| 02 | [Context awareness](patterns/02-context-awareness.md) | How does the agent demonstrate it already knows the situation? | Both demos |
-| 03 | [Action-first framing](patterns/03-action-first-framing.md) | How does the agent lead with what it can do, not what it knows? | Travel disruption |
-| 04 | [Trust calibration](patterns/04-trust-calibration.md) | How does the agent express confidence, including when it's uncertain? | Payroll intelligence |
-| 05 | [Progressive disclosure](patterns/05-progressive-disclosure.md) | How does the agent reveal complexity in layers, not all at once? | Payroll intelligence |
-| 06 | [Multi-agent handoff](patterns/06-multi-agent-handoff.md) | How do agents transfer context without losing the user? | Payroll intelligence |
-| 07 | [Capability boundaries](patterns/07-capability-boundaries.md) | How does an agent signal what it cannot or should not do? | Payroll intelligence |
-| 08 | [Human-in-the-loop](patterns/08-human-in-the-loop.md) | How does the agent require human approval before consequential actions? | Payroll intelligence |
-| 09 | [Autonomous chaining](patterns/09-autonomous-chaining.md) | How does the agent complete multi-step tasks without interrupting the user? | Travel disruption |
-| 10 | [Resolution confirmation](patterns/10-resolution-confirmation.md) | How does the agent signal that a problem is fully closed? | Both demos |
-| 11 | [Knowledge grounding](patterns/11-knowledge-grounding.md) | How does the agent answer from verified sources, not model memory? | Travel disruption |
+| 01 | [Proactive alerts](patterns/01-proactive-alerts.md) | How does the agent surface issues before the user asks? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
+| 02 | [Context awareness](patterns/02-context-awareness.md) | How does the agent demonstrate it already knows the situation? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
+| 03 | [Action-first framing](patterns/03-action-first-framing.md) | How does the agent lead with what it can do, not what it knows? | [Travel Disruption](demos/travel-disruption.md) |
+| 04 | [Trust calibration](patterns/04-trust-calibration.md) | How does the agent express confidence, including when it's uncertain? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 05 | [Progressive disclosure](patterns/05-progressive-disclosure.md) | How does the agent reveal complexity in layers, not all at once? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 06 | [Multi-agent handoff](patterns/06-multi-agent-handoff.md) | How do agents transfer context without losing the user? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 07 | [Capability boundaries](patterns/07-capability-boundaries.md) | How does an agent signal what it cannot or should not do? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 08 | [Human-in-the-loop](patterns/08-human-in-the-loop.md) | How does the agent require human approval before consequential actions? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 09 | [Autonomous chaining](patterns/09-autonomous-chaining.md) | How does the agent complete multi-step tasks without interrupting the user? | [Travel Disruption](demos/travel-disruption.md) |
+| 10 | [Resolution confirmation](patterns/10-resolution-confirmation.md) | How does the agent signal that a problem is fully closed? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
+| 11 | [Knowledge grounding](patterns/11-knowledge-grounding.md) | How does the agent answer from verified sources, not model memory? | [Travel Disruption](demos/travel-disruption.md) |
 
 ---
 
@@ -48,6 +48,9 @@ Two working prototypes demonstrate these patterns in context. Screenshots throug
 ### Payroll Intelligence
 **Context:** Global HR and payroll, proactive anomaly detection, cross-border compliance, multi-agent escalation  
 **Patterns:** Trust calibration, progressive disclosure, multi-agent handoff, capability boundaries, HITL, inline page update  
+
+[![Payroll Intelligence prototype](demos/assets/deel-toast-alert.png)](demos/payroll-intelligence.md)
+
 [View demo details](demos/payroll-intelligence.md)
 
 ### Travel Disruption

@@ -22,6 +22,8 @@ This architecture separates what the model knows from what the agent says. The m
 
 ## Seen in practice
 
+*Demonstrated in: [Travel Disruption](../demos/travel-disruption.md)*
+
 ### Travel Disruption: RAG pipeline over policy and regulatory documents
 
 The HTS Assist prototype is backed by an agentic RAG pipeline built in n8n. Policy documents, carrier regulations, and fintech product terms are embedded into a Supabase vector store using semantic embeddings. When a user scenario triggers a policy question, the agent retrieves the relevant passages and grounds its response in those documents.
