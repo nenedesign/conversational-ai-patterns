@@ -1,6 +1,6 @@
 # Demo: Private Assistant *(coming soon)*
 
-> **Disclaimer:** The employer name and branding shown in this prototype are used for design demonstration purposes only. This is an unsolicited concept exploration, not an official product of the named company.
+> **Disclaimer:** The company name and branding shown in this prototype are used for design demonstration purposes only. This is an unsolicited concept exploration, not an official product of or affiliated with the named company.
 
 ---
 

@@ -11,7 +11,7 @@ This is not a theoretical guide. Every pattern here was applied in a working pro
 
 ---
 
-> **Disclaimer:** Employer names and branding used in the demo prototypes are for design demonstration purposes only. These are unsolicited concept explorations, not official products of the named companies.
+> **Disclaimer:** Company and employer names and branding used in the demo prototypes are for design demonstration purposes only. These are unsolicited concept explorations, not official products of or affiliated with the named companies.
 
 ---
 
