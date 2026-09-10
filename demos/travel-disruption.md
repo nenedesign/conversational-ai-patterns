@@ -6,7 +6,7 @@
 
 A browser-based conversational AI prototype demonstrating how an agentic travel assistant handles flight disruption, CFAR refunds, and loyalty upgrades, from proactive alert to full resolution, in a single conversation.
 
-Video walkthrough available at [fromus.ca](https://fromus.ca). To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
+Video walkthrough available at [fromus.ca](https://fromus.ca) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
 
 ---
 

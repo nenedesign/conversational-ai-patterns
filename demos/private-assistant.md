@@ -31,4 +31,4 @@ This prototype demonstrates what conversational AI looks like when privacy is th
 
 This prototype is in design. It will be built after the Payroll Intelligence and Travel Disruption prototypes are complete.
 
-Video walkthrough will be available at [fromus.ca](https://fromus.ca) when ready. To discuss the concept, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
+Video walkthrough available at [fromus.ca](https://fromus.ca) *(coming soon)*. To discuss the concept, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
