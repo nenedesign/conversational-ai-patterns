@@ -41,25 +41,37 @@ No issue is buried. No action is taken without permission. No decision is made w
 
 ---
 
-## Screenshots
+## Workflow Screenshots
 
-### Proactive toast notification
+### Step 1: Proactive toast notification
 ![Proactive toast notification — "3 issues found in Argentina payroll cycle, action needed before Feb 25th"](assets/deel-toast-alert.png)
 
-### Trust calibration: contractor findings
+*Payroll Detective monitors payroll cycles in the background and surfaces issues before the user notices — no query required.*
+
+### Step 2: Trust calibration — contractor findings
 ![Contractor issue cards — Payroll Detective surfaces issues with confidence expressed per finding](assets/deel-contractor-cards.png)
 
-### Progressive disclosure: Morales case
+*Confidence is expressed explicitly on each card — the agent shows its certainty level, not just its answer. Users can evaluate, not just accept.*
+
+### Step 3: Progressive disclosure — Morales case
 ![Progressive disclosure — CUIT issues surfaced first; Morales case revealed only after user confirms](assets/deel-progressive-disclosure.png)
 
-### Multi-agent handoff
+*The agent reveals the payroll issue in layers — two simple fixes first, then the complex Morales case only when asked. Avoids overwhelming the user upfront.*
+
+### Step 4: Multi-agent handoff
 ![Multi-agent handoff — Payroll Detective reaches its boundary; Border Buddy joins with full context](assets/deel-agent-handoff.png)
 
-### Human-in-the-loop gate
+*Payroll Detective hands off to Border Buddy when the issue crosses into cross-border classification. Each agent knows its expertise boundary — and says so explicitly.*
+
+### Step 5: Human-in-the-loop gate
 ![Human-in-the-loop gate — two options presented before any payment moves](assets/deel-hitl-card.png)
 
-### Inline page update: resolution confirmed
+*The agent cannot process payments or escalate without an explicit human decision. Options are presented, not assumed — the human stays in control of every consequential action.*
+
+### Step 6: Inline page update — resolution confirmed
 ![Inline page update — Argentina row updates to "49/50 payments queued · 1 held for legal review"](assets/deel-inline-update.png)
+
+*After resolution, the Argentina payroll row updates in the background — connecting the conversational layer to the product surface without requiring navigation.*
 
 ---
 
