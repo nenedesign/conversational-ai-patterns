@@ -44,34 +44,34 @@ No issue is buried. No action is taken without permission. No decision is made w
 ## Workflow Screenshots
 
 ### Step 1: Proactive toast notification
-![Proactive toast notification — "3 issues found in Argentina payroll cycle, action needed before Feb 25th"](assets/deel-toast-alert.png)
+![Proactive toast notification: 3 issues found in Argentina payroll cycle, action needed before Feb 25th](assets/deel-toast-alert.png)
 
-*Payroll Detective monitors payroll cycles in the background and surfaces issues before the user notices — no query required.*
+*Payroll Detective monitors payroll cycles in the background and surfaces issues before the user notices. No query required.*
 
-### Step 2: Trust calibration — contractor findings
-![Contractor issue cards — Payroll Detective surfaces issues with confidence expressed per finding](assets/deel-contractor-cards.png)
+### Step 2: Trust calibration, contractor findings
+![Contractor issue cards: Payroll Detective surfaces issues with confidence expressed per finding](assets/deel-contractor-cards.png)
 
-*Confidence is expressed explicitly on each card — the agent shows its certainty level, not just its answer. Users can evaluate, not just accept.*
+*Each card shows the agent's confidence level explicitly, not just its answer. Users can evaluate the finding and decide whether to act, verify, or escalate.*
 
-### Step 3: Progressive disclosure — Morales case
-![Progressive disclosure — CUIT issues surfaced first; Morales case revealed only after user confirms](assets/deel-progressive-disclosure.png)
+### Step 3: Progressive disclosure, the Morales case
+![Progressive disclosure: CUIT issues surfaced first; Morales case revealed only after user confirms](assets/deel-progressive-disclosure.png)
 
-*The agent reveals the payroll issue in layers — two simple fixes first, then the complex Morales case only when asked. Avoids overwhelming the user upfront.*
+*Issues are revealed in layers. Two straightforward fixes come first; the complex Morales case surfaces only after the user confirms they want to continue.*
 
 ### Step 4: Multi-agent handoff
-![Multi-agent handoff — Payroll Detective reaches its boundary; Border Buddy joins with full context](assets/deel-agent-handoff.png)
+![Multi-agent handoff: Payroll Detective reaches its boundary; Border Buddy joins with full context](assets/deel-agent-handoff.png)
 
-*Payroll Detective hands off to Border Buddy when the issue crosses into cross-border classification. Each agent knows its expertise boundary — and says so explicitly.*
+*Payroll Detective hands off to Border Buddy when the issue crosses into cross-border classification. Each agent knows its expertise boundary and says so explicitly.*
 
 ### Step 5: Human-in-the-loop gate
-![Human-in-the-loop gate — two options presented before any payment moves](assets/deel-hitl-card.png)
+![Human-in-the-loop gate: two options presented before any payment moves](assets/deel-hitl-card.png)
 
-*The agent cannot process payments or escalate without an explicit human decision. Options are presented, not assumed — the human stays in control of every consequential action.*
+*No payment moves without an explicit human decision. Options are presented, not assumed. The human stays in control of every consequential action.*
 
-### Step 6: Inline page update — resolution confirmed
-![Inline page update — Argentina row updates to "49/50 payments queued · 1 held for legal review"](assets/deel-inline-update.png)
+### Step 6: Inline page update, resolution confirmed
+![Inline page update: Argentina row updates to 49/50 payments queued, 1 held for legal review](assets/deel-inline-update.png)
 
-*After resolution, the Argentina payroll row updates in the background — connecting the conversational layer to the product surface without requiring navigation.*
+*After resolution, the Argentina payroll row updates in the background. The conversational layer and the product surface stay connected, no navigation required.*
 
 ---
 
