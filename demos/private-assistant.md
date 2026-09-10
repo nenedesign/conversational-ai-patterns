@@ -4,13 +4,13 @@
 
 ---
 
-A conversational AI prototype demonstrating privacy-first interaction design — local model inference, minimalist floating prompt UI, and GDPR-aligned data handling — with no cloud dependency.
+A conversational AI prototype demonstrating privacy-first interaction design, local model inference, minimalist floating prompt UI, and GDPR-aligned data handling, with no cloud dependency.
 
 ---
 
 ## The concept
 
-Most conversational AI sends your data to a cloud. Every message, every query, every piece of context — processed on remote servers, retained in logs, used to improve models. For many use cases, this is an acceptable tradeoff. For personal data, healthcare, legal work, or any context where privacy is the product, it is not.
+Most conversational AI sends your data to a cloud. Every message, every query, every piece of context, processed on remote servers, retained in logs, used to improve models. For many use cases, this is an acceptable tradeoff. For personal data, healthcare, legal work, or any context where privacy is the product, it is not.
 
 This prototype demonstrates what conversational AI looks like when privacy is the constraint that shapes everything else. Local model inference. Minimal data retention by design. Consent patterns that are legible, not buried. A floating prompt UI that is ambient but not intrusive.
 
@@ -22,7 +22,7 @@ This prototype demonstrates what conversational AI looks like when privacy is th
 |---------|---------------|
 | [Capability boundaries](../patterns/07-capability-boundaries.md) | Agent is explicit about what it retains, what it forgets, and when |
 | [Trust calibration](../patterns/04-trust-calibration.md) | Agent expresses uncertainty about local model limitations vs. cloud model capabilities |
-| [Progressive disclosure](../patterns/05-progressive-disclosure.md) | Privacy controls surface progressively — consent at the point of need, not upfront |
+| [Progressive disclosure](../patterns/05-progressive-disclosure.md) | Privacy controls surface progressively, consent at the point of need, not upfront |
 | [Human-in-the-loop](../patterns/08-human-in-the-loop.md) | User explicitly approves any action that touches persistent storage |
 
 ---

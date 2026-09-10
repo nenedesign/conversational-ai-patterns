@@ -11,7 +11,7 @@ Full bibliography for the Conversational AI Patterns framework. Sources are orga
 https://pair.withgoogle.com/guidebook/patterns
 
 **Google: Conversation Design Guidelines**  
-Official design specification for conversational interfaces — persona, turn design, cooperative principles, natural dialogue flow.  
+Official design specification for conversational interfaces, persona, turn design, cooperative principles, natural dialogue flow.  
 https://designguidelines.withgoogle.com/conversation/
 
 **Microsoft HAX Toolkit: Guidelines for Human-AI Interaction**  
@@ -40,7 +40,7 @@ Seven baseline practices: minimal footprint, reversibility preference, escalatio
 https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf
 
 **Salesforce: Responsible Agentic AI Guidelines**  
-Design principles for the agentic enterprise — accuracy, HITL retention, Einstein Trust Layer patterns, and Agentforce guardrail design.  
+Design principles for the agentic enterprise, accuracy, HITL retention, Einstein Trust Layer patterns, and Agentforce guardrail design.  
 https://www.salesforce.com/news/stories/responsible-agentic-ai-guidelines/
 
 **Nielsen Norman Group: "10 Guidelines for Designing AI Chatbots"**  
@@ -48,11 +48,11 @@ Chatbot UX guidelines backed by research with 425+ ChatGPT/Bard/Bing Chat intera
 https://www.nngroup.com/articles/ai-chatbots-design-guidelines/
 
 **Apple Human Interface Guidelines: Siri**  
-Natural language interaction principles — completing requests in-place, capability-appropriate surfaces, and resolution confirmation.  
+Natural language interaction principles, completing requests in-place, capability-appropriate surfaces, and resolution confirmation.  
 https://developer.apple.com/design/human-interface-guidelines/
 
 **Woebot Health: AI Core Principles**  
-Production implementation of capability boundary design in a high-stakes context — no diagnosis, no medical advice, hardcoded crisis escalation.  
+Production implementation of capability boundary design in a high-stakes context, no diagnosis, no medical advice, hardcoded crisis escalation.  
 https://woebothealth.com/ai-core-principles/
 
 ---
@@ -66,7 +66,7 @@ https://dl.acm.org/doi/10.1145/3290605.3300233
 
 **Deng, Y. et al. (2025). "Proactive Conversational AI: A Comprehensive Survey."**  
 *ACM Transactions on Information Systems.*  
-Comprehensive survey of how agents initiate and shape conversations — proactive recommendation, topic management, goal-driven dialogue.  
+Comprehensive survey of how agents initiate and shape conversations, proactive recommendation, topic management, goal-driven dialogue.  
 https://dl.acm.org/doi/10.1145/3715097
 
 **Deng, Y. et al. (2023). "Goal Awareness for Conversational AI: Proactivity, Non-collaborativity, and Beyond."**  
@@ -105,7 +105,7 @@ https://arxiv.org/pdf/2401.07123
 
 **"From Conversation to Orchestration: HCI Challenges in Interactive Multi-Agentic Systems."**  
 *HAI '25 (13th International Conference on Human-Agent Interaction).* ACM.  
-Research agenda for multi-agent design — negotiation patterns, context continuity, multi-party conversation management.  
+Research agenda for multi-agent design, negotiation patterns, context continuity, multi-party conversation management.  
 https://dl.acm.org/doi/10.1145/3765766.3765795
 
 **"Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff."**  
@@ -118,7 +118,7 @@ arXiv:2605.12105.
 Architectural patterns for HITL gate placement, reversibility weighting, and minimal footprint design in regulated environments.  
 https://arxiv.org/pdf/2605.12105
 
-**CUI@CHI 2024: "Building Trust in CUIs — From Design to Deployment."**  
+**CUI@CHI 2024: "Building Trust in CUIs, From Design to Deployment."**  
 *Extended Abstracts of CHI 2024.* ACM.  
 Research agenda for trust in conversational user interfaces across the full design-to-deployment pipeline.  
 https://dl.acm.org/doi/full/10.1145/3613905.3636287
@@ -131,7 +131,7 @@ https://dl.acm.org/doi/full/10.1145/3613905.3636287
 Seven attributes of trustworthy AI: validity and reliability, security, privacy, transparency, explainability, fairness, safety. January 2023.  
 https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf
 
-**ISO/IEC 42001:2023 — AI Management Systems**  
+**ISO/IEC 42001:2023, AI Management Systems**  
 First international standard for AI governance. Requirements for risk management, human oversight, transparency, and lifecycle governance.  
 https://www.iso.org/standard/42001
 
@@ -140,5 +140,5 @@ Transparency and human oversight requirements for conversational AI. Enacted 202
 https://artificialintelligenceact.eu/high-level-summary/
 
 **OWASP LLM Top 10**  
-LLM01 (Prompt Injection), LLM04 (Data Poisoning), LLM06 (Excessive Agency), LLM09 (Misinformation) — the most relevant risks for conversational and agentic AI design.  
+LLM01 (Prompt Injection), LLM04 (Data Poisoning), LLM06 (Excessive Agency), LLM09 (Misinformation), the most relevant risks for conversational and agentic AI design.  
 https://owasp.org/www-project-top-10-for-large-language-model-applications/
