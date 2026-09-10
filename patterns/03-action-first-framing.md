@@ -36,8 +36,7 @@ Each HTS Assist persona receives an action-first opening:
 
 In each case, the agent's knowledge of the user's context and coverage is expressed through the action being offered, not stated separately.
 
-<!-- Screenshot: Dreamer, action-first opening messages across Joe, Sarah, Alex personas -->
-*[Screenshot: HTS Assist, action-first opening messages for all three personas]*
+![Joe's opening: flight context delivered as an immediate rebooking offer — knowledge expressed through action, not explanation](../demos/assets/dreamer-joe-opening.png)
 
 ## Research grounding
 

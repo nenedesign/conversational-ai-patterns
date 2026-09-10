@@ -56,6 +56,9 @@ Two working prototypes demonstrate these patterns in context. Screenshots throug
 ### Travel Disruption
 **Context:** Agentic travel resolution, flight disruption, CFAR refunds, loyalty upgrades  
 **Patterns:** Proactive alerts, context awareness, action-first framing, autonomous chaining, resolution confirmation, knowledge grounding  
+
+[![Travel Disruption prototype](demos/assets/dreamer-joe-opening.png)](demos/travel-disruption.md)
+
 [View demo details](demos/travel-disruption.md)
 
 ### Private Assistant *(coming soon)*

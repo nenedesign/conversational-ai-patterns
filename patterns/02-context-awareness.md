@@ -29,8 +29,7 @@ When Joe Chen opens the HTS Assist chat, the agent's first message references hi
 
 The same pattern applies across all three personas. Sarah Kim opens the chat to a message that references her specific booking number and CFAR coverage status. Alex Morgan sees his flight status and Platinum eligibility confirmed upfront.
 
-<!-- Screenshot: Dreamer, agent opening message with pre-loaded context per persona -->
-*[Screenshot: HTS Assist opening messages, each persona receives context-specific first response]*
+![Three travellers, three distinct contexts — each persona receives a context-specific response before saying a word](../demos/assets/dreamer-persona-selector.png)
 
 ### Payroll Intelligence: cycle and workforce context
 

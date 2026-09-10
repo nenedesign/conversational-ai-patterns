@@ -37,8 +37,7 @@ Joe Chen approves one action: rebook on UA238. From that confirmation, the agent
 
 Three consequential actions. One user-initiated confirmation. The agent carries the load between decision points.
 
-<!-- Screenshot: Dreamer, three-step chain: rebook → hotel options → expense claim filed -->
-*[Screenshot: HTS Assist, autonomous chain: flight rebooked, hotel options surfaced, expense claim filed in one session]*
+![Autonomous chain: flight confirmed, hotel options surfaced, expense claim queued — one confirmation, three consequential actions](../demos/assets/dreamer-autonomous-chain.png)
 
 ## Research grounding
 

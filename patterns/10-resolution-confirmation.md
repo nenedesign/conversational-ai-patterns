@@ -29,8 +29,7 @@ After Joe's disruption is fully resolved, flight rebooked, hotel booked, expense
 
 This is not a chat message. It is a screen state that exists specifically to signal closure. The user does not have to scan the conversation to confirm everything worked.
 
-<!-- Screenshot: Dreamer, resolution confirmation screen "You're all set, Joe" -->
-*[Screenshot: HTS Assist, resolution confirmation screen with booking ref, hotel confirmation, expense claim ref]*
+![Resolution confirmation: "You're all set, Joe" — booking ref, hotel, and expense claim all visible in one dedicated screen](../demos/assets/dreamer-resolution.png)
 
 ### Payroll Intelligence: inline page update
 

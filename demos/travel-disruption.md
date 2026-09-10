@@ -35,31 +35,37 @@ Each persona demonstrates a different facet of context-aware, action-first conve
 
 ---
 
-## Screenshots
+## Workflow Screenshots
 
-### Multi-persona selector
-<!-- Screenshot: Dreamer, three-persona selector with Joe, Sarah, Alex -->
-*[Screenshot: Persona selector, three travellers, three distinct scenarios]*
+### Step 1: Multi-persona selector
+![Three travellers, three distinct scenarios — Joe Chen, Sarah Kim, and Alex Morgan](assets/dreamer-persona-selector.png)
 
-### Context-aware opening: Joe Chen
-<!-- Screenshot: Joe's opening message with flight, coverage, and rebooking offer -->
-*[Screenshot: HTS Assist, agent opens with Joe's flight context and immediate rebooking offer]*
+*Three travellers, three distinct situations. The agent knows each person's booking, coverage type, and status before they say a word.*
 
-### Autonomous chain: Joe's resolution
-<!-- Screenshot: Three-step chain, rebook confirmed, hotel options, expense claim filed -->
-*[Screenshot: Autonomous chaining, flight rebooked, hotel selected, expense claim filed in one session]*
+### Step 2: Context-aware opening, Joe Chen
+![Joe's opening: flight cancelled, Disruption Assistance confirmed, rebooking offer surfaced immediately](assets/dreamer-joe-opening.png)
 
-### Resolution confirmation: "You're all set, Joe"
-<!-- Screenshot: Resolution screen with booking ref, hotel, and claim number -->
-*[Screenshot: Resolution confirmation, dedicated screen with all reference numbers visible]*
+*Joe's flight is cancelled. The agent surfaces his coverage and offers to rebook before he asks. Context is pre-loaded, not queried.*
 
-### Context-aware opening: Sarah Kim
-<!-- Screenshot: Sarah's CFAR refund offer -->
-*[Screenshot: HTS Assist, agent opens with Sarah's CFAR coverage and immediate refund offer]*
+### Step 3: Autonomous chain, Joe's resolution
+![Autonomous chain: flight confirmed, hotel options pulled, expense claim queued in one session](assets/dreamer-autonomous-chain.png)
 
-### Context-aware opening: Alex Morgan
-<!-- Screenshot: Alex's upgrade eligibility offer -->
-*[Screenshot: HTS Assist, agent opens with Alex's Platinum status and upgrade eligibility]*
+*One confirmation triggers the full chain. Flight rebooked, hotel options surfaced, expense claim queued. The agent carries the load between decision points.*
+
+### Step 4: Resolution confirmation, "You're all set, Joe"
+![Resolution screen: booking ref, hotel confirmation, and expense claim all visible in a single dedicated view](assets/dreamer-resolution.png)
+
+*Dedicated resolution screen with all reference numbers visible. The conversation is over; the confirmation is permanent.*
+
+### Step 5: Context-aware opening, Sarah Kim
+![Sarah's opening: CFAR coverage active, full refund offered immediately](assets/dreamer-sarah-opening.png)
+
+*Sarah's CFAR coverage is already active. The agent offers a full refund immediately — no explanation of terms, no form to fill.*
+
+### Step 6: Context-aware opening, Alex Morgan
+![Alex's opening: Platinum status confirmed, seat upgrade eligibility surfaced proactively](assets/dreamer-alex-opening.png)
+
+*Alex's flight is on time. The agent surfaces his Platinum upgrade eligibility proactively and checks availability on request.*
 
 ---
 

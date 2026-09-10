@@ -36,8 +36,7 @@ The alert is specific: "3 issues found in Argentina payroll cycle, action needed
 
 The HTS Assist agent surfaces the flight disruption the moment the user opens the chat, without the user reporting it. The agent already knows which flight was cancelled, the reason (crew shortage), and what coverage applies (Disruption Assistance). The opening message leads with the situation and the solution in the same breath.
 
-<!-- Screenshot: Dreamer disruption alert screen -->
-*[Screenshot: HTS Assist opening message, agent surfaces disruption context before user asks]*
+![HTS Assist opens with Joe's flight cancellation context — agent surfaces the disruption before the user asks](../demos/assets/dreamer-joe-opening.png)
 
 ## Research grounding
 
