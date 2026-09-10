@@ -17,7 +17,7 @@ Context awareness has two components:
 
 Making context visible is not just a UX courtesy. It is a trust signal. When the agent says "I can see your flight UA234 to JFK has been cancelled" rather than "What flight are you asking about?", it demonstrates that it is connected to real data and operating with authority.
 
-**What makes it work:** Context is loaded at session start, not retrieved in response to questions. The agent's opening message already reflects what it knows.
+**What makes it work:** This is context engineering. Before the conversation begins, the agent's session is populated with the user's specific data: booking references, coverage type, loyalty status, account state. The opening message already reflects what it knows because the context was assembled and injected before the user said a word. The agent does not ask because it already knows.
 
 ## Seen in practice
 

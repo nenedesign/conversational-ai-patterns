@@ -18,6 +18,8 @@ Knowledge grounding has three components:
 
 This architecture separates what the model knows from what the agent says. The model provides language capability. The knowledge base provides facts. The two are not the same.
 
+**Knowledge grounding vs. context engineering:** These are two distinct injection mechanisms that work together. Knowledge grounding brings in domain facts from curated external sources: policy documents, regulatory texts, carrier rules. Context engineering brings in user-specific data: the traveller's booking, coverage type, loyalty status. Both are injected into the agent's context, but they answer different questions. Knowledge grounding answers "what does the policy say?" Context engineering answers "who is this person and what is their situation?" In Travel Disruption, both are active: the agent knows Joe's flight details from context engineering and knows his Disruption Assistance coverage terms from the RAG pipeline.
+
 **Why this matters beyond accuracy:** Knowledge grounding is also a governance pattern. Audit trails become possible. Regulatory compliance becomes defensible. When an agent says "under Argentina Law 20.744, full-time hours for 6+ consecutive months constitute a legally presumed employment relationship," that statement can be traced to a specific document in the knowledge base, not attributed to model training.
 
 ## Seen in practice
