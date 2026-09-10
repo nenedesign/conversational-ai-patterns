@@ -31,8 +31,7 @@ These are real tradeoffs with real consequences. The agent does not recommend on
 
 Only after the user selects an option does anything happen.
 
-<!-- Screenshot: Deel, HITL escalation card with two-option decision -->
-*[Screenshot: Human-in-the-loop gate, Border Buddy presents two options; no action taken until user decides]*
+![Human-in-the-loop gate — Border Buddy presents two options; no payment moves until the user decides](../demos/assets/deel-hitl-card.png)
 
 ## Research grounding
 

@@ -31,8 +31,7 @@ The user confirms. Border Buddy joins and immediately demonstrates context conti
 
 The handoff is transparent (the user sees it happening), justified (the reason is stated), and seamless (no context is lost).
 
-<!-- Screenshot: Deel, Payroll Detective capability boundary message + Border Buddy joining with context -->
-*[Screenshot: Multi-agent handoff, Payroll Detective acknowledges its boundary; Border Buddy joins with full context]*
+![Multi-agent handoff — Payroll Detective acknowledges its boundary; Border Buddy joins with full context](../demos/assets/deel-agent-handoff.png)
 
 ## Research grounding
 

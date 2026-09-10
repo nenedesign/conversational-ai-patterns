@@ -34,8 +34,7 @@ The same pattern applies across all three personas. Sarah Kim opens the chat to 
 
 The Payroll Detective agent knows the Argentina payroll cycle details, the submission deadline, the number of contractors affected, and the relevant regulatory context (Argentina Law 20.744) before the HR manager asks. This allows the conversation to move directly to resolution rather than spending turns establishing what the problem is.
 
-<!-- Screenshot: Deel, Payroll Detective references specific cycle data in opening message -->
-*[Screenshot: Payroll Detective, agent opens with Argentina cycle context already loaded]*
+![Payroll Detective opens with Argentina cycle context already loaded — contractor issues surfaced without the user asking](../demos/assets/deel-contractor-cards.png)
 
 ## Research grounding
 

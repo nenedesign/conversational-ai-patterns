@@ -36,8 +36,7 @@ After the user approves holding Morales's payment for legal review, the Argentin
 
 The user can see, in the product, not just in the chat, that their decision had an effect. The conversational layer and the product surface are connected.
 
-<!-- Screenshot: Deel, Argentina row updating after HITL resolution -->
-*[Screenshot: Payroll Intelligence, Argentina payroll row updates inline after human decision; legal review status visible]*
+![Resolution confirmation — Argentina payroll row updates inline after human decision; legal review status visible in the product](../demos/assets/deel-inline-update.png)
 
 ## Research grounding
 

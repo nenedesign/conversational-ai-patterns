@@ -44,28 +44,22 @@ No issue is buried. No action is taken without permission. No decision is made w
 ## Screenshots
 
 ### Proactive toast notification
-<!-- Screenshot: Toast notification, Payroll Detective surfaces Argentina issues -->
-*[Screenshot: Proactive alert, "3 issues found in Argentina payroll cycle, action needed before Feb 25th"]*
+![Proactive toast notification — "3 issues found in Argentina payroll cycle, action needed before Feb 25th"](assets/deel-toast-alert.png)
 
 ### Trust calibration: contractor findings
-<!-- Screenshot: Contractor issue cards with confidence per finding -->
-*[Screenshot: Payroll Detective surfaces contractor issues with confidence expressed per case]*
+![Contractor issue cards — Payroll Detective surfaces issues with confidence expressed per finding](assets/deel-contractor-cards.png)
 
 ### Progressive disclosure: Morales case
-<!-- Screenshot: CUIT issues first, Morales case revealed after confirmation -->
-*[Screenshot: Two-layer disclosure, simple cases first, complex case revealed only after user confirms]*
+![Progressive disclosure — CUIT issues surfaced first; Morales case revealed only after user confirms](assets/deel-progressive-disclosure.png)
 
 ### Multi-agent handoff
-<!-- Screenshot: Payroll Detective capability boundary + Border Buddy joining -->
-*[Screenshot: Payroll Detective reaches its boundary; Border Buddy joins with full context]*
+![Multi-agent handoff — Payroll Detective reaches its boundary; Border Buddy joins with full context](assets/deel-agent-handoff.png)
 
 ### Human-in-the-loop gate
-<!-- Screenshot: HITL escalation card with two options -->
-*[Screenshot: Human decision required, two options presented before any payment moves]*
+![Human-in-the-loop gate — two options presented before any payment moves](assets/deel-hitl-card.png)
 
 ### Inline page update: resolution confirmed
-<!-- Screenshot: Argentina payroll row updated to legal review status -->
-*[Screenshot: Argentina row updates inline, "49/50 payments queued · 1 held for legal review"]*
+![Inline page update — Argentina row updates to "49/50 payments queued · 1 held for legal review"](assets/deel-inline-update.png)
 
 ---
 

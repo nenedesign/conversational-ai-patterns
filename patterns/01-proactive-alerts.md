@@ -28,8 +28,7 @@ The Payroll Detective agent monitors active payroll cycles in the background. Wh
 
 The alert is specific: "3 issues found in Argentina payroll cycle, action needed before Feb 25th." It includes a direct action ("Review now") and a dismiss option. The user is not asked to find the problem. They are told what was found and given a path forward.
 
-<!-- Screenshot: Deel proactive toast notification -->
-*[Screenshot: Proactive toast notification, Payroll Detective surfaces Argentina payroll issues before the user asks]*
+![Payroll Detective proactive toast notification — "3 issues found in Argentina payroll cycle, action needed before Feb 25th"](../demos/assets/deel-toast-alert.png)
 
 ### Travel Disruption: flight cancellation alert
 

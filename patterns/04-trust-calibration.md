@@ -31,8 +31,7 @@ The Payroll Detective surfaces three contractor issues in the Argentina payroll 
 
 The agent's confidence level determines its action recommendation at each step. This is visible in how it speaks, not in a UI element.
 
-<!-- Screenshot: Deel, trust calibration cards showing confidence per contractor issue -->
-*[Screenshot: Payroll Detective, confidence expressed per finding; high-confidence issues resolved, low-confidence issue escalated]*
+![Payroll Detective trust calibration — confidence expressed per contractor finding; high-confidence issues actioned, uncertain case escalated](../demos/assets/deel-contractor-cards.png)
 
 ## Research grounding
 

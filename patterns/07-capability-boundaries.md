@@ -35,8 +35,7 @@ The language is deliberate. "A line I don't cross" signals intentional constrain
 
 This pattern recurs at the next level: Border Buddy analyzes the Morales case in depth but ultimately escalates to a human compliance specialist. The boundary is explicit at each layer.
 
-<!-- Screenshot: Deel, Payroll Detective capability boundary statement -->
-*[Screenshot: Payroll Detective, "that's a line I don't cross", explicit capability boundary before handoff]*
+![Capability boundary — Payroll Detective states "that's a line I don't cross" before handing off to Border Buddy](../demos/assets/deel-agent-handoff.png)
 
 ## Research grounding
 

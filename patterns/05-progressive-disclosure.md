@@ -33,8 +33,7 @@ The Argentina payroll cycle has three issues. The Payroll Detective does not pre
 
 If the agent had opened with all three cases including the full Morales risk analysis, the user would face a decision about legal escalation before they had even processed the simpler issues.
 
-<!-- Screenshot: Deel, two-layer disclosure: CUIT issues first, Morales case only after confirmation -->
-*[Screenshot: Payroll Detective, CUIT issues surfaced first; Morales complexity revealed only after user confirms]*
+![Progressive disclosure — CUIT issues surfaced first; Morales complexity revealed only after user confirms](../demos/assets/deel-progressive-disclosure.png)
 
 ## Research grounding
 
