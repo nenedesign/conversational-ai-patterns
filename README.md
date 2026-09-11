@@ -61,7 +61,7 @@ Two working prototypes demonstrate these patterns in context. Screenshots throug
 
 [View demo details](demos/travel-disruption.md)
 
-### Private Assistant *(coming soon)*
+### Personal Creative Assistant *(coming soon)*
 **Context:** Privacy-first local AI, minimalist conversational UI, GDPR-aligned, no cloud dependency  
 [View demo details](demos/private-assistant.md)
 
