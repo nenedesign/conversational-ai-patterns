@@ -6,7 +6,7 @@
 
 A browser-based conversational AI prototype demonstrating how an intelligent payroll agent handles proactive anomaly detection, cross-border compliance, and multi-agent escalation in a global HR platform.
 
-Video walkthrough available at [fromus.ca](https://fromus.ca) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
+Video walkthrough available at [fromus.ca](https://www.fromus.ca/cai-payroll-intelligence) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
 
 ---
 
