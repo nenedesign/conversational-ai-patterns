@@ -67,7 +67,7 @@ Two working prototypes demonstrate these patterns in context. Screenshots throug
 
 ---
 
-Video walkthroughs of each prototype are available at [fromus.ca](https://fromus.ca) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
+Video walkthroughs of each prototype are available at [fromus.ca](https://www.fromus.ca/conversational-ai) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
 
 ---
 
