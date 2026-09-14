@@ -55,6 +55,22 @@ https://developer.apple.com/design/human-interface-guidelines/
 Production implementation of capability boundary design in a high-stakes context, no diagnosis, no medical advice, hardcoded crisis escalation.  
 https://woebothealth.com/ai-core-principles/
 
+**Google Conversational Agents (Dialogflow CX) — Platform Documentation**  
+Official platform documentation covering test case management and automated validation, contextual intent and route group design, NoMatch and NoInput event handler patterns, and environment versioning for staged deployments.  
+https://cloud.google.com/dialogflow/cx/docs
+
+**Google Conversational Insights**  
+Production implementation of LLM-generated conversation summaries, sentiment analysis, topic modeling, and resolution tracking for contact center AI. Supports export to BigQuery for custom dashboards and audit reporting.  
+https://cloud.google.com/conversational-insights/docs/overview
+
+**Google Generative Knowledge Assist**  
+Real-time knowledge surfacing for human contact center agents. Monitors live conversations and proactively surfaces summarized suggestions and referenced documents based on conversation context, without interrupting the customer-facing interaction.  
+https://cloud.google.com/agent-assist/docs/knowledge-assist
+
+**Microsoft Copilot for Customer Service**  
+AI-assisted knowledge surfacing integrated into contact center workflows. Surfaces relevant knowledge articles and draft responses to human agents during live interactions. Reduces average handle time and improves response consistency.  
+https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-for-service
+
 ---
 
 ## Academic Papers
@@ -122,6 +138,10 @@ https://arxiv.org/pdf/2605.12105
 *Extended Abstracts of CHI 2024.* ACM.  
 Research agenda for trust in conversational user interfaces across the full design-to-deployment pipeline.  
 https://dl.acm.org/doi/full/10.1145/3613905.3636287
+
+**Jurafsky, D. and Martin, J.H. "Speech and Language Processing" (3rd ed.)**  
+The standard reference for dialogue systems, covering dialogue state tracking, frame-based dialogue management, clarification subdialogues, grounding, and conversational repair. Chapter 15 is the theoretical foundation for digression handling and conversation repair patterns.  
+https://web.stanford.edu/~jurafsky/slp3/
 
 ---
 
