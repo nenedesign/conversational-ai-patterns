@@ -39,6 +39,11 @@ These patterns address the design layer: how conversational AI should behave, co
 | 10 | [Resolution confirmation](patterns/10-resolution-confirmation.md) | How does the agent signal that a problem is fully closed? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
 | 11 | [Knowledge grounding](patterns/11-knowledge-grounding.md) | How does the agent answer from verified sources, not model memory? | [Travel Disruption](demos/travel-disruption.md) |
 | 12 | [Digression handling](patterns/12-digression-handling.md) | How does the agent maintain context when the user goes off-topic mid-flow? | [Travel Disruption](demos/travel-disruption.md) |
+| 13 | [Testing and evaluation](patterns/13-testing-and-evaluation.md) | How does the team validate agent behavior before it reaches production? | [Travel Disruption](demos/travel-disruption.md) |
+| 14 | [Conversation summarization](patterns/14-conversation-summarization.md) | How does the agent capture what happened for handoffs, audit, and context reload? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 15 | [Knowledge assist for human agents](patterns/15-knowledge-assist.md) | How does the system surface relevant knowledge to human agents during live conversations? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 16 | [Conversation repair](patterns/16-conversation-repair.md) | How does the agent recover when a user says something it cannot understand? | [Travel Disruption](demos/travel-disruption.md) |
+| 17 | [Outcome measurement](patterns/17-outcome-measurement.md) | How does the team know whether the agent actually resolved what the user needed? | [Payroll Intelligence](demos/payroll-intelligence.md) |
 
 ---
 
