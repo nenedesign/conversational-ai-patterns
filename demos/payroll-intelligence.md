@@ -43,6 +43,8 @@ No issue is buried. No action is taken without permission. No decision is made w
 
 ## Workflow Screenshots
 
+![Payroll Intelligence prototype — conversational AI panel with multi-agent state, HITL escalation card, and inline page update](assets/deel-ui.png)
+
 ### Step 1: Proactive toast notification
 ![Proactive toast notification: 3 issues found in Argentina payroll cycle, action needed before Feb 25th](assets/deel-toast-alert.png)
 

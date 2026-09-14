@@ -25,6 +25,8 @@ These patterns address the design layer: how conversational AI should behave, co
 
 ## The Patterns
 
+![Conversational AI Patterns — 17 practitioner design patterns for trustworthy conversational AI](demos/assets/cai-patterns.png)
+
 | # | Pattern | Core question | Seen in |
 |---|---------|--------------|---------|
 | 01 | [Proactive alerts](patterns/01-proactive-alerts.md) | How does the agent surface issues before the user asks? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
