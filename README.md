@@ -38,6 +38,7 @@ These patterns address the design layer: how conversational AI should behave, co
 | 09 | [Autonomous chaining](patterns/09-autonomous-chaining.md) | How does the agent complete multi-step tasks without interrupting the user? | [Travel Disruption](demos/travel-disruption.md) |
 | 10 | [Resolution confirmation](patterns/10-resolution-confirmation.md) | How does the agent signal that a problem is fully closed? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
 | 11 | [Knowledge grounding](patterns/11-knowledge-grounding.md) | How does the agent answer from verified sources, not model memory? | [Travel Disruption](demos/travel-disruption.md) |
+| 12 | [Digression handling](patterns/12-digression-handling.md) | How does the agent maintain context when the user goes off-topic mid-flow? | [Travel Disruption](demos/travel-disruption.md) |
 
 ---
 
