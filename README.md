@@ -44,12 +44,18 @@ These patterns address the design layer: how conversational AI should behave, co
 | 15 | [Knowledge assist for human agents](patterns/15-knowledge-assist.md) | How does the system surface relevant knowledge to human agents during live conversations? | [Payroll Intelligence](demos/payroll-intelligence.md) |
 | 16 | [Conversation repair](patterns/16-conversation-repair.md) | How does the agent recover when a user says something it cannot understand? | [Travel Disruption](demos/travel-disruption.md) |
 | 17 | [Outcome measurement](patterns/17-outcome-measurement.md) | How does the team know whether the agent actually resolved what the user needed? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 18 | [Auditable AI output](patterns/18-auditable-ai-output.md) | When AI outputs must withstand legal or regulatory review, how does the interface make evidence traceable? | [Regulated Evidence Review](demos/regulated-evidence-review.md) *(coming soon)* |
+| 19 | [Scale triage with audit trail](patterns/19-scale-triage-audit-trail.md) | When AI filters large evidence sets, how does the system preserve an audit trail of what was excluded and why? | [Regulated Evidence Review](demos/regulated-evidence-review.md) *(coming soon)* |
+| 21 | [Adversarial output design](patterns/21-adversarial-output-design.md) | When AI methodology will be challenged, how does the interface expose the reasoning chain so it can be reproduced and defended? | [Regulated Evidence Review](demos/regulated-evidence-review.md) *(coming soon)* |
+| 22 | [HITL handoff design](patterns/22-hitl-handoff-design.md) | When the agent escalates to a human, what does the handoff contain so the human can make a real decision? | [Payroll Intelligence](demos/payroll-intelligence.md) |
+| 23 | [Source traceability](patterns/23-source-traceability.md) | How does the interface make AI outputs traceable to their source data, not just to a document list? | [Travel Disruption](demos/travel-disruption.md) |
+| 24 | [Sycophancy mitigation](patterns/24-sycophancy-mitigation.md) | How does the interface counteract the model's structural tendency to agree with the user? | [Payroll Intelligence](demos/payroll-intelligence.md) · [Travel Disruption](demos/travel-disruption.md) |
 
 ---
 
 ## The Demos
 
-Two working prototypes demonstrate these patterns in context. Screenshots throughout this repo are taken from both.
+Three working prototypes demonstrate these patterns in context. Screenshots throughout this repo are taken from the first two.
 
 ### Payroll Intelligence
 **Context:** Global HR and payroll, proactive anomaly detection, cross-border compliance, multi-agent escalation  
@@ -71,6 +77,10 @@ Two working prototypes demonstrate these patterns in context. Screenshots throug
 **Context:** Privacy-first local AI, minimalist conversational UI, GDPR-aligned, no cloud dependency  
 [View demo details](demos/private-assistant.md)
 
+### Regulated Evidence Review *(coming soon)*
+**Context:** AI-assisted review of large evidence sets in regulated and legal contexts; scale triage, chain of custody, adversarial defensibility  
+**Patterns:** Auditable AI output, scale triage with audit trail, adversarial output design, HITL handoff design
+
 ---
 
 Video walkthroughs of each prototype are available at [fromus.ca](https://www.fromus.ca/conversational-ai) *(coming soon)*. To see a live demo, reach out on [LinkedIn](https://www.linkedin.com/in/nevilleko/).
@@ -86,7 +96,12 @@ These patterns are grounded in published research across industry, academia, and
 - **Anthropic: Building Effective Agents**: agentic workflow patterns, multi-agent orchestration
 - **OpenAI: Governing Agentic AI Systems**: minimal footprint, reversibility, HITL gates
 - **NIST AI RMF 1.0**: trustworthy AI attributes, risk management
-- **EU AI Act**: transparency and human oversight requirements
+- **EU AI Act**: transparency, human oversight, and record-keeping requirements
+- **ACPO Good Practice Guide for Digital Evidence**: audit trail and reproducibility requirements for digital evidence
+- **Alam & Altiparmak, XAI-CF (2024/2026)**: explainable AI in cyber forensics; interpretability as a legal admissibility requirement
+- **Reedy / Interpol Digital Evidence Review (2026)**: AI triage admissibility and chain of custody documentation
+- **Sharma et al. (2023)**: empirical characterization of sycophancy in instruction-following models
+- **Lewis et al. (2020)**: retrieval-augmented generation as the architectural foundation for source traceability
 
 Full bibliography: [references.md](references.md)
 
