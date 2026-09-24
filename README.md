@@ -19,7 +19,7 @@ This is not a theoretical guide. Every pattern here was applied in a working pro
 
 Most conversational AI fails not because the model is wrong, but because the interaction design is. Agents that don't express uncertainty. Handoffs between agents that feel like dropped calls. Actions taken without asking. Escalations that arrive too late, or never.
 
-These patterns address the design layer: how conversational AI should behave, communicate, and hand off control in ways that users can trust.
+These patterns address the design layer: how conversational AI should behave, communicate, and hand off control in ways that users can trust. The principle behind all of them: AI augments workflow for human judgment. It does not replace it.
 
 ---
 
