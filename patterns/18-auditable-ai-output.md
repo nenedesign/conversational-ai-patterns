@@ -4,7 +4,7 @@
 
 AI outputs that look authoritative but cannot be traced back to their source data are a credibility problem in legal, regulatory, and investigative contexts. In those contexts, the question is not only whether the output is correct. It is whether the reasoning behind it can be examined, challenged, and reproduced.
 
-A system that surfaces a finding without showing its provenance cannot be cross-examined. An output that cannot be cross-examined cannot be trusted in adversarial review. In forensic, compliance, and regulated contexts, that is not a design inconvenience. It is a disqualifying flaw.
+A system that surfaces a finding without showing its provenance cannot be cross-examined. An output that cannot be cross-examined cannot be trusted in adversarial review. In high-stakes, compliance, and regulated contexts, that is not a design inconvenience. It is a disqualifying flaw.
 
 The failure mode is subtle: the system looks authoritative. The language is confident. The output is plausible. But the evidence chain underneath it is invisible.
 

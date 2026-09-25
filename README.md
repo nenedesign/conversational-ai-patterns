@@ -117,4 +117,4 @@ These prototypes share a technical foundation with production-grade AI workflows
 - [ai-governance-osfi-e23](https://github.com/nenedesign/ai-governance-osfi-e23), OSFI E-23 model risk management
 - [n8n-workflows](https://github.com/nenedesign/n8n-workflows), agentic RAG pipelines and AI automation templates
 - [ai-accountability-design-patterns](https://github.com/nenedesign/ai-accountability-design-patterns), 12 accountability design concepts: traceability, auditability, chain of custody, explainability, and more
-- [trauma-informed-design-patterns](https://github.com/nenedesign/trauma-informed-design-patterns), interaction design patterns for forensic investigation and high-stakes digital products
+- [trauma-informed-design-patterns](https://github.com/nenedesign/trauma-informed-design-patterns), interaction design patterns for high-stakes and investigative digital products

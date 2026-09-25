@@ -36,7 +36,7 @@ Perplexity AI (inline numbered citations per claim), Microsoft Copilot (source c
 
 - **EU AI Act Articles 12 and 13 (2024):** record-keeping and transparency requirements for high-risk AI systems, including logging sufficient to trace outputs back to inputs and explain system behavior. [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689)
 
-- **ACPO Good Practice Guide for Digital Evidence, Principle 3 (2012):** continuity of evidence requires that any person accessing material can account for what happened to it. Forensic traceability baseline that applies wherever outputs will be used in consequential or adversarial review. [forensiccontrol.com/guides/acpo-guidelines-principles-explained](https://forensiccontrol.com/guides/acpo-guidelines-principles-explained/)
+- **ACPO Good Practice Guide for Digital Evidence, Principle 3 (2012):** continuity of evidence requires that any person accessing material can account for what happened to it. Investigative traceability baseline that applies wherever outputs will be used in consequential or adversarial review. [forensiccontrol.com/guides/acpo-guidelines-principles-explained](https://forensiccontrol.com/guides/acpo-guidelines-principles-explained/)
 
 ## Related patterns
 
